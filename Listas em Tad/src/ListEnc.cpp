@@ -142,7 +142,6 @@ void ListEnc::insereK(int k, float val)
     {
      No *p = primeiro;
      No *novo = new No();
-     No *aux;
      novo->setInfo(val);
      int cont=1;
 
@@ -158,7 +157,7 @@ void ListEnc::insereK(int k, float val)
             else if(k>1 && cont==k-1)
             {
                 p->setProx(novo);
-                novo->setProx(aux);
+                novo->setProx(p->getProx());
                 break;
             }
 

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1714793634 source:/home/igor/Documentos/Codeblocks/testeAlfabeto/main.cpp
+	<iostream>
+	<string>
+	"letra.h"
+	"ordemAlf.h"
+
+1714677809 /home/igor/Documentos/Codeblocks/testeAlfabeto/include/letra.h
+	<string>
+
+1714793699 /home/igor/Documentos/Codeblocks/testeAlfabeto/include/ordemAlf.h
+	"letra.h"
+
+1714793699 source:/home/igor/Documentos/Codeblocks/testeAlfabeto/src/ordemAlf.cpp
+	"ordemAlf.h"
+	<iostream>
+

@@ -2,8 +2,8 @@
 #include <string>
 #include "letra.h"
 #include "ordemAlf.h"
-using namespace std;
 
+using namespace std;
 int main()
 {
     ordemAlf teste;

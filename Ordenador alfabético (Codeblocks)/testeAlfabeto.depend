@@ -31,3 +31,19 @@
 	"ordemAlf.h"
 	<iostream>
 
+1716672787 source:c:\users\igort\onedrive\documentos\algoritmos\ordenador alfabético (codeblocks)\main.cpp
+	<iostream>
+	<string>
+	"letra.h"
+	"ordemAlf.h"
+
+1714677810 c:\users\igort\onedrive\documentos\algoritmos\ordenador alfabético (codeblocks)\include\letra.h
+	<string>
+
+1714793700 c:\users\igort\onedrive\documentos\algoritmos\ordenador alfabético (codeblocks)\include\ordemalf.h
+	"letra.h"
+
+1716671242 source:c:\users\igort\onedrive\documentos\algoritmos\ordenador alfabético (codeblocks)\src\ordemalf.cpp
+	"ordemAlf.h"
+	<iostream>
+

@@ -24,9 +24,9 @@ int main()
             t += c;
     }
 
-    std::cout << t<<'\n';
+    //std::cout << t<<'\n';
 
-    p.Buscar(t, "belle");
+    p.Buscar(t, "fer");
 
     return 0;
 }

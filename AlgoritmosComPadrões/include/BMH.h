@@ -12,6 +12,6 @@ public:
     void Busca(const std::string &strArq, const std::string &strBusca, bool imp);
 
 private:
-    std::vector<int> Pref(const std::string &strBusca);
+    int* Pref(const std::string &strBusca);
 };
 #endif // !BMH_H
